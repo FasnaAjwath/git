@@ -1,4 +1,4 @@
-<!-- Git practice. -->
+Git practice
 This is a complete git practice
 
-<!-- This is change from Feature branch -->
+<!-- This is a feature branch -->
